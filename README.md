@@ -1,7 +1,7 @@
 <h1>Washington DC Trip Registration</h1>
 
 <h2>Description</h2>
-A website that displays the itinerary for a 3 day trip to Washington D.C. and allows visitors to register for an informational meeting as well as vote for their favorite proposed activity.
+A website that displays the itinerary for a 3 day trip to Washington D.C. and allows visitors to register for an informational meeting as well as vote for their favorite proposed activity. Results of the poll are cached, and registrants are stored in a SQL database.
 <br />
 
 
